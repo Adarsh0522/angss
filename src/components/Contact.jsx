@@ -100,7 +100,7 @@ const Contact = () => {
                   href="mailto:info@amarjyottrust.org"
                   className="text-stone-400 hover:text-white transition-colors text-lg"
                 >
-                  info@amarjyottrust.org
+                  angss.org@gmail.com
                 </a>
               </div>
             </div>
@@ -134,7 +134,7 @@ const Contact = () => {
               </div>
             </div>
 
-            {/* Social Media */}
+            {/* Social Media 
             <div className="pt-2">
               <div className="flex gap-4">
                 {[Instagram, Twitter, Facebook, Linkedin].map((Icon, i) => (
@@ -147,7 +147,7 @@ const Contact = () => {
                   </a>
                 ))}
               </div>
-            </div>
+            </div>*/}
           </div>
         </motion.div>
 

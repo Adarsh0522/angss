@@ -66,7 +66,7 @@ const Footer = () => {
               </ul>
             </div>
 
-            <div>
+            {/*} <div>
               <h4 className="font-bold text-lg text-white mb-8 tracking-wider">
                 कायदेशीर
               </h4>
@@ -83,7 +83,7 @@ const Footer = () => {
                   </li>
                 ))}
               </ul>
-            </div>
+            </div>*/}
           </div>
         </div>
 
